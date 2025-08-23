@@ -14,6 +14,6 @@ Get in touch: [s3009007@gmail.com](mailto:s3009007@gmail.com)
 ![Backend](https://skillicons.dev/icons?i=py,cpp,java,go,cs,scala,dotnet)
 
 ### DevOps 🛠
-![DevOps](https://skillicons.dev/icons?i=azure,aws,docker,terraform,linux,git,gitlab,github,githubactions)
+![DevOps](https://skillicons.dev/icons?i=azure,aws,docker,terraform,linux,powershell,bash,git,gitlab,github,githubactions)
 
 
