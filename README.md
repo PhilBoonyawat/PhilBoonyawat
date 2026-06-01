@@ -1,5 +1,5 @@
 # Hey there! 👋
-I am a final-year **Computer Science** undergraduate at King’s College London with a strong passion for **Software Engineering and DevOps**. I am deeply motivated by building scalable, efficient software and am a strong believer in the power of automation ⚙️
+I am a final-year **Computer Science** undergraduate at King’s College London with a strong passion for **Systems Engineering**. I am deeply motivated by building scalable, efficient software and am a strong believer in the power of automation ⚙️
 
 Get in touch: [s3009007@gmail.com](mailto:s3009007@gmail.com)  
 
